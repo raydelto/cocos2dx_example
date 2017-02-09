@@ -1,3 +1,11 @@
 bin
 linux-build
 cocos2d
+proj.android
+proj.android-studio
+pro.ios_mac
+proj.tizen
+proj.win8.1-universal
+proj.win10
+proj.win32
+proj.ios_mac
